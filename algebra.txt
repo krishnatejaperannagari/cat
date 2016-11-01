@@ -1,0 +1,39 @@
+(a + b)3 = a3 + b3 + 3ab (a + b)
+(a3 + b3) = (a + b) (a2 + b2 - ab)
+(a + b + c + d)2 = a2 + b2 + c2 + d2 + 2a(b + c + d) + 2b(c + d) + 2cd
+a3 + b3 + c3 - 3abc = (a + b + c)(a2 + b2 + c2 - ab – bc - ca)
+(x + a)(x + b)(x + c) = x3 + (a + b + c)x2 + (ab + bc + ca)x + abc
+If ax2 + bx + c = 0 (a ? 0), then the roots are
+[x =frac{-b+sqrt{b^{2}-4ac}}{2a}] and [x =frac{-b-sqrt{b^{2}-4ac}}{2a}]
+Sum of the two roots i.e. ? + ? = -b/a
+product of the roots i.e. ?? = c/a.
+¦p - q¦ > r => p – q > r or p – q < - r
+
+
+Tn = a + (n -1)d
+[S{n}=frac{n}{2} [2a + (n-1)d]]
+Tn = a[rpow(n-1)]
+[S{n}=\rac{a(1-rpow{n})}{1-r}] 
+[S{?}=frac{a}{1-r}] 
+[T_{n}=frac{1}{a+(n-1)d}]
+[b = frac{2ac}{a+c}] a, b, c are in HP
+Sum of first `n` natural number [S_{n}=frac{n(n+1)}{2}]
+Sum of square of first `n` natural numbers = [S_{n}=frac{n(n+1)(2n+1)}{6}\
+Sum of cube of first `n` natural numbers = [S_{n}=[frac{n(n+1)}{2}]^{2}]
+
+A function is said to be even, if f(x) = f (-x)
+find inverse of function
+f(x) = [x]. It denotes the largest integer less than or equal to x.
+[3.4] = [3.9] = [3.9999] = 3.
+ax3 + bx2 + cx + d= 0
+If ?, ? and ? are the roots of the above cubic equation, then
+S1 = (Sum of roots taken one at a time) = ? + ? + ? = -b/a
+S2 = (Sum of roots taken two at a time) = ? ? + ? ? + ?? = c/a
+P = Product of roots = ? ? ? = -d/a
+For an equation of degree n, 
+Sum of roots taken r at a time = -(Coefficient of xn-r)?(Coefficient of xn)
+Product of the roots = (+ or -) constant?coefficient of xn
+**http://www.queskey.com/content/Quant-DI/Algebra/Functions #waving curve method
+
+(x + a)n = xn + nC1xn-1a + nC2xn-2a2 + nC3xn-3a3 + …. + an
+`rth` term = xn-r+1ar-1 [{n(n-1)(n-2)…..(n-r+2)} / (r-1)!]
