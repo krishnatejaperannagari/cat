@@ -1,0 +1,25 @@
+-3, -2, -1, 0, 1, 2, 3 are called integers
+irrational number can be defined as an infinite non-recurring decimal number.
+root of a number which cannot be exactly found is called a surd.
+composite number can be defined as a number which has factors other than itself and 1.
+sum up all the factors of a number (excluding the number itself) and the sum is equal to the number itself then this number is known as perfect number.
+Two numbers are considered to be prime to each other when their HCF is 1, and they are called co-prime.
+The number of ways in which a number Z can be written as the product of two factors, which are co-prime to each other, is 2power(Y)-1 where Y is the number of different prime factors of Z.
+Check if a number is prime or not: Let`s look at the number 119. So let`s see if we have any prime numbers less than 11(sq. root of closest perfect square number which is ? 119) as a factor of 119. The prime numbers 2, 3, 5,7,11 are not the factors of 119 and hence 119 is a prime number.
+
+Least common multiple (LCM) of two numbers can be defined as the smallest of the numbers, which is exactly divisible by each of them.
+Highest common factor (HCF) of two or more numbers is the greatest number, which divides each of those numbers exact number of times.
+Method: Express the two numbers as the product of prime numbers separately and take the product of numbers common to both numbers.
+Product of two numbers = LCM?HCF.
+LCM of fractions = LCM of numerators ? HCF of denominators
+HCF of fractions = HCF of numerators ? LCM of denominators
+**http://www.queskey.com/content/Quant-DI/Number-System/LCM-and-HCF #types of problems #examples
+
+A fraction whose numerator is greater than its denominator is known as an improper fraction. 
+See the pattern that a number generates when it occurs in power of itself. All the numbers start repeating themselves after 4, the universal cyclicity of all numbers is 4.
+578pow(1029): divide the exponent of the number by 4. So we divide 1029 by 4 and get the remainder as 1. unit`s digit of the number can be calculated by solving 8pow(1). Here 8 is the unit`s digit of the number 578 and 1 is the remainder.If the remainder is zero, then the unit digit will be same as the unit digit of Npow(4)
+if a number `a x b` is divided by `n` the remainder is `ra x rb'(remainder when a is divided by n and when b is divided by n)(same applies to addition and subtraction)
+Method to find square root of number
+The Euler number of a number x means the number of natural numbers which are less than x and are co-prime to x.
+[E(z)=z(1-\frac{1}{p})(1-\frac{1}{Q})(1-\frac{1}{R}).......\] Where P, Q and R are different prime factors of z
+yE(z) divides z, the remainder will always be 1, where E(z) is Euler number of z and y and z are co-prime to each other.
