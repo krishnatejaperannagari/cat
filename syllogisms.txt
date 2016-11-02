@@ -1,0 +1,14 @@
+It is a form of reasoning in which a conclusion is drawn from two given or assumed prepositions.
+
+Universal Positive Statement indicates something positive to all the items of that category. These kinds of statements begin with all, every and each. It is represented by letter `A`
+Universal Negative Statement indicates a negative meaning.These statements begin with No, None of the, Not a etc. It is represented by letter `E`
+Though the Particular Positive Statement gives a positive impression but it only covers some items not all. They begin with some, any, a few etc. It is represented by letter `I`
+Particular Negative Statement gives a negative impression about some items not all. It is represented by letter `O`
+
+Rules:
+    With two particular statements no universal conclusion is possible.
+    With two positive statements no negative conclusion is possible.
+    With two negative statements no positive conclusion is possible.
+    With two particular statements no conclusion is possible, except when a `particular positive statement` type of statement is given and then by reversing it a `particular negative statement` type of conclusion is given.
+
+You can use venn diagrams to solve them if time permits

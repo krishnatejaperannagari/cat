@@ -1,0 +1,23 @@
+The section tests a candidates ability to interpret data quickly and make decisions.Logical Reasoning questions could appear in the form of block questions, with each block carrying 2 to 4 questions, or as a single questions. Use diagramatic representation to solve them when necessary.
+
+Circular arrangement is one of the question types under the logical reasoning section.Therefore we have to take into account multiple scenarios while attempting a circular arrangement question.
+
+Blood relations are another category of frequently asked questions in the CAT. Diagramatic representation is the best way to solve them.
+
+Tips to solve series problems.
+    Try to identify one common factor in all the elements of the series. This could be a common increment (or a decrement), a common multiple or all the numbers could be perfect squares.
+    In certain cases the series could take form of an Arithmatic Progression, a Geometric Progression or even a dual series.
+    Try to identify numbers that appear often. See if there is any pattern to these numbers. What numbers appear often? Is there a pattern to these numbers?
+    In case of fractions look for all the patterns in the numerator and the denominator
+
+In Code Words, you are required to work out the code that has been used and to encode or decode a word.In practice, it is easier to have the word above the code and then to work down to encode or decode. 
+Some examples of coding rules are:
+Constant:
+Increasing or decreasing:
+Changing sign: 
+Mixture of increasing/decreasing and changing sign:
+Another form of Coded questions is the Mirror Image.
+
+
+
+

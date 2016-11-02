@@ -1,0 +1,18 @@
+Argument: A group of statements in which one statement is suppose to follow from others.
+Conclusion: This is regarded as the focal point of the argument.
+Premises: A premise is a sentence that provides support to the conclusion
+Assumption: An assumption is a premise which has not been stated.
+
+Once the conclusion has been recognized, you must question the conclusion. If the premises does not support the conclusion, then you have chosen the wrong statement as the conclusion. 
+Trigger words for conclusion: as, therefore, thus, so, due to, in addition, because.
+Trigger words for Premises: because, since, if, given that, in view of, assume, suppose.
+
+Some additional fact questions ask you to strengthen the question, while others ask you to weaken the argument and you are required to strengthen or weaken the argument by considering one of the options in the answer choices.
+
+Negate what you think is the hidden assumption and see if it seriously affects the validity of the conclusion. If its negation affects the validity of the conclusion than it is correct.
+
+Strategy:
+    Look at the question and try to frame an answer to the question, as far as possible without looking at the options.
+    Identify the conclusion. In some cases, the question can take the form of a fill in the blank , in which case the conclusion would be a part of the option.
+    Ask your self, What is the evidence in the argument itself which is supporting the conclusion? This would be explicitly stated in the argument.
+    Is the conclusion dependent upon some conditions that have not been stated explicitly in the passage? If so, list down such assumptions.
