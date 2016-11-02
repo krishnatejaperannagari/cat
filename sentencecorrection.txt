@@ -1,0 +1,46 @@
+The sentence correction questions are intended to check the correctness and effectiveness of expression.
+
+A verb must agree with its subject in number
+
+When checking agreement, ignore any words or phrases that separate a verb from its subject. 
+Normally, in long sentences, a subject is separated from a verb by preposition phrases like of, by, for, with, in, on, to, through, from, against, near, along with, in place of, as well as etc. A preposition is always followed by a noun (or a pronoun). E.g. Of the people, by the car, to the church, on fire etc. are all prepositional phrases. Important point here to remember is subject of a verb never appears in a prepositional phrase.
+
+Collective nouns are usually singular
+Words such as team, group, bunch, collection, family, class, club, organization etc. are all examples of collective nouns. Such collective nouns are usually singular.
+
+Pronouns ending with "one", "body" and "thing" are singular
+One – someone, anyone, no one, everyone
+Body – somebody, anybody, nobody, everybody
+Thing – nothing, anything, everything
+
+SANAM pronouns i.e. "some", "any", "none", "all" and "most" can be singular or plural
+
+"The number is singular" and "a number is plural"
+
+
+Verb tenses must reflect the sequence of events correctly
+  	Simple Forms 	Continuous Forms 	Perfect Forms 	Prefect Continuous Forms
+Present take/s 		am/is/are/taking 	have/has taken 	have/has been taking
+Past 	took 		was/were taking 	had taken 	had been taking
+Future 	will/shall take will be taking 		will have taken will have been taking
+
+
+The principal parts of verbs are present, past and past participle. They should be used correctly
+
+A modifying phrase must modify a word or phrase appearing in the sentence.The modifying phrases that modify nouns or pronouns work as adjectives and the modifying phrases that modify verbs, adjectives or adverbs work as adverbs.
+The modifying phrase must be next to what it modifies
+
+In parallelism, the sentence demands consistency in its structure.
+All Verbs in the sentence should be of similar form(If the list of verbs contains two past and one past continuous, then the sentence would be incorrect, as the verbs will not agree with each other)
+All Adjectives or Adverbs should be of similar form(In the above example, the sentence consists a list of adjectives until you reach the third item in the list, which is a verb. To maintain consistency, verb is replaced with adjective.)
+Pronouns must be identical to each other(the word "one" is a pronoun referring to an unspecified person, so the only acceptable match is "one")
+
+Coordinating Conjunctions: The conjunctions that join two or more words/phrases/clauses/sentences of equal syntactic importance are called Coordinating Conjunctions.(and, for, but, yet, or)
+Correlative conjunctions work in pairs to join words and group of words of equal weight in a sentence. There are six pairs of correlative conjunctions:(either-or,not only-but also,neither-nor,both-and, whether-or, just as-so)
+The conjunctions that conjoin an independent clause and a dependent clause are called conjunctions. (after, although, because, when, as soon as etc)
+
+Either coordinating conjunctions or a semicolon (;) should be used to connect two independent clauses.
+
+Distinguish between countable and uncountable quantities
+
+Avoid run-on sentences(It is a sentence in which two or more independent sentences have been shoved together without a semicolon or a coordinating conjunction)
