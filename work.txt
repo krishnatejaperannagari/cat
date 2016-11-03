@@ -1,0 +1,12 @@
+Simple Partnership: When the partners start the business at the same time i.e. when partners contribute their money at the same time and remain partners for the same duration. Then partnership is distributed in the ratio of the money they have invested.
+Compound Partnership: When partners invest their money at different time periods, it is called compound partnership. Profit sharing ratio is calculated by multiplying the money invested with the unit of time
+
+Chain Rule is applicable when two or more components are given and some information is missing in one of the components. To calculate the missing information two methods are used:
+1. If the missing information be greater than the given information, then the numerator is kept greater than the denominator. 
+2. If the missing information be lesser than the given information, then the numerator is kept smaller than the denominator. 
+
+In time and work related problems, the rate at which people or machines work alone are given and combined rate at which if they work together has to be calculated (or vice versa).
+1/x + 1/y = 1/h
+where x and y are the rates at which for example Cindy and Peter respectively will complete the job if they work alone and h is the rate at which they complete the job if they work together. 
+
+Pipes and Cistern problems are solved the same way as Time and Work problems. In these problems, we have to find out at what rate the pipe fills or drains out the tank.

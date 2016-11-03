@@ -1,0 +1,30 @@
+Simple Interest = [frac{Principle times Rate times Time}{100}]
+Amount = Principle + Simple Interest.
+The interest rate is always assumed to be per annum (for a period of one year) or as specified in question.
+
+if Mr X fails to pay the interest after the specified period, then the interest is added to the principle which would lead to a New Principle for the next period. New Principle = Principle + interest. This is also known as compounding.
+The formula for the amount A at the end of T years for an initial amount of P and at an interest rate of R% per annum is 
+[A = P(1+frac{R}{100})^{T}]
+
+Multiply the fraction by 100 to convert it into a percent.In order to convert from percent to Fraction we just divide the percent by 100.
+
+%(increase/decrease) = 100 x (quantity increase or decrease)/(original quantity).
+
+If a number is increased by 10%, then it becomes 1.1 times of itself. 
+If a number is increased by 20%, then it becomes 1.2 times itself. 
+If a number is decreased by 30%, then it becomes 0.70 times of itself. 
+If a number is decreased by 40%, then it becomes 0.60 times of itself
+
+If A`s income is R% more than B, then B`s income is less than that of A by 
+(100 x R)/(100 + R) percent
+
+If A`s Income is R% less than B, then B`s income is more than that of A by 
+(100 x R)/(100 - R) percent
+
+If the price is decreased, then the consumption should be increased by 100 x R/ (100 + R) percent so that the total expenditure remains the same
+If the price is increased, then the consumption should be decreased by 100 x R/ (100 - R) percent so that the total expenditure remains the same
+
+If a number is increased by R%, then this number is decreased by R%, then in total there would be decrease of {Rpow{2}}/{100}] percent
+
+If a number is decreased by X%, then this is again increased by Y%. Then the total increase in the no. will [ X + Y + frac{XY}{100}]
+Instead of Increase if the number is decreased, then simply put a negative value in its place.

@@ -1,0 +1,35 @@
+This cost includes the cost of manufacturing, all the overhead expenses such as taxes, transportation etc.
+SP – CP = profit or gain (in this case SP > CP)
+CP – SP = Loss (in this case CP>SP)
+Percentage Profit or loss = 100 x (profit or loss/cost price)
+
+If two items are sold at Rs X, one of them at a profit of `p` % and the other at a loss of `p` %, then the two transactions have resulted in an overall loss of ppow(2)/100 %
+Here the absolute value of loss = Rs [frac{2.p^{2}.X}/{100^{2}-p^{2}}]
+
+If the cost price of two items are X, and one is sold at a profit of p% and the other at a loss of p%, then the two transactions have resulted in no gain or no loss.
+
+Trade discount is a discount on the selling price of an article.
+
+(1-x)(1-y) represents the single discount equivalent of x% and y%
+
+Profit = (Actual sales – Break-even sales) ? Contribution per unit
+Loss = (Break-even sales – Actual sales) ? Contribution per unit
+
+CP + Mark up = Marked price
+Mark up = SP – CP
+
+CP + % Markup = Marked Price
+Marked Price - % Discount = Selling 
+
+
+
+
+
+
+
+
+
+
+
+
+

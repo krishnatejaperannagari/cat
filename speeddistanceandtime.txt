@@ -1,0 +1,27 @@
+Distance = Speed ? Time
+
+If you travel equal distances with speed U and V, then the average speed over the entire journey is given by [frac{2UV}{(U + V)}]
+
+1 km/hour = 1000/3600 = 5/18 m/s
+1 mile = 1760 yards
+1 yard = 3 feet
+1 mile = 5280 feet
+1 mile/hour = 1760/3600 = 22/45 yards/sec
+1 mile/hour = 5280/3600 = 22/15 ft/sec
+
+When two objects are moving in same direction, then their relative speed is the difference between the two speeds.
+When two objects are moving in opposite direction, then their relative speed is the sum of the two speeds.
+When the train crosses a platform or a bridge (object has considerable length but is stationary), then the distance traveled is the length of the train + length of the object.
+
+Boats/Streams:
+    When the boat is traveling in the direction of the stream, then the speed of boat is
+    (x + y) km/h.
+    When the boat is traveling opposite to the direction of the stream, then the boat is
+    (x – y) km/h.
+    If the upstream (boat speed - stream speed) is denoted by U and downstream (boat speed + stream speed) is denoted by D, the oat speed and stream speed as calculated as:
+    [ x = frac{D + U}{2}] , [ y= frac{D - U}{2}]
+
+Races:
+winner distance – (start distance + beat distance) = loser`s distance
+
+If we need to find the time after which all of them would be at the starting point simultaneously for the first time, we need to find lcm of the times taken to run around the race track once

@@ -1,0 +1,24 @@
+a:b is known as linear form of fraction
+
+If [frac{a}{b}=frac{c}{d}=frac{e}{f}], then each of these ratios is equal to [frac{a+c+e}{b+d+f}]
+If [frac{a}{b}=frac{c}{d}], then [frac{b}{a}=frac{d}{c}](invertendo)
+If [frac{a}{b}=frac{c}{d}], then [frac{a}{c}=frac{b}{d}](alterendo)
+If [frac{a}{b}=frac{c}{d}], then [frac{a + b}{b}=frac{c + d}{d}](componendo)
+If [frac{a}{b}=frac{c}{d}], then [frac{a - b}{b}=frac{c - d}{d}](Dividendo)
+If [frac{a}{b}=frac{c}{d}], then [frac{a + b}{a - b}=frac{c + d}{c - d}](Componendo and Dividendo)
+
+if a : b = c : d then a, b, c, d are in proportion. If a, b, c, d are in proportions then ad = bc.
+Also, if a : b = b : c = c : d, then a, b, c, d are said to be in continued proportion.
+
+If the three ratios a : b, b : c, c : d are known, then we can find a : d by multiplying all these ratios.
+[frac{a}{b}timesfrac{b}{c}timesfrac{c}{d}=frac{a}{d}]
+If [frac{a}{b}=frac{b}{c}=frac{c}{d}] , then a,b,c,d are in a geometric progression.
+If two ratios a : b = b : c, then b2 = a x c.
+
+The mixture problems are solved using the relation that “when different quantities are mixed together to obtain the final mixture of a mean value, the ratio of their quantities is inversely proportional to the differences in their cost from the mean value.”
+**It can also be given as [frac{low}{high} = frac{high - mix}{mix - low}] [Use Allegation rule]
+Note: While solving such kind of problems always find the quality that is cheaper or lower. 
+
+Direct Variation: If two quantities are related in such a way that if one increases (or decreases) the other one also increases (or decreases) in the same ratio, then we say that the two quantities are in direct variation to each other. 
+
+Inverse Variation: If two quantities are related in such a way that if one increases (or decreases) the other one decreases (or increases) in the same ratio, then we say that the two quantities are in direct variation to each other
