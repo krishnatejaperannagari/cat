@@ -1,0 +1,13 @@
+A typical Data Sufficiency problem shall present you with a question and a set of conditions. In order to tackle a Data sufficiency problem you must be able to conclude weather the given set of conditions is sufficient (or not) to answer the question.
+
+The sufficiency condition for two statements in given in the following format:
+    Statement (A) ALONE is sufficient, but statement (B) alone is not sufficient.
+    Statement (B) ALONE is sufficient, but statement (A) alone is not sufficient.
+    BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient.
+    EACH statement ALONE is sufficient.
+    Statement (A) and (B) TOGETHER are NOT sufficient.
+
+While solving DATA SUFFICIENCY questions, follow following 3 rules:
+    Examine the question
+    Consider each statement individually
+    Combine the two statements

@@ -1,0 +1,5 @@
+Data is given in the form of paragraph in caselets questions. It is advisable to highlight or underline the important facts and figures and if possible make your own table/chart or a graph for solving these types of questions. 
+
+Combination graph is a combination of two or more types of graphs.
+In combination graph questions, a pie-chart and a line graph may be shown together in one question or a question may be a combination of bar graph, caselet and a table.
+Questions are solved using the information from different graphs 
