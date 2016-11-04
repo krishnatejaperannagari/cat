@@ -1,0 +1,34 @@
+n! = n ? (n-1) ? (n-2) ?… ? 2 ? 1 
+Let us consider three tasks such that one can be executed in m ways and the other can be executed in n ways and the third one can be executed in p ways. Then all these three jobs in succession could be completed in m ? n ? p ways. 
+Now if the jobs are mutually exclusive of each other i.e. they can be performed independently then the three jobs (MNP rule) can be performed in m + n + p different ways.
+So the permutations of arranging n numbers is given by n! ways.
+
+Permutations of `n` distinct objects taken `r` at a time:
+P(n, r) = nPr = n!/(n - r)!
+Permutations of `n` different objects, taken `r` at a time, when a particular object is to be included in each arrangement is given by: 
+r ?(n-1)P(r-1)
+Permutation of `n` different objects taken `r` at a time in which two specified objects always occur together:
+2!(r - 1)*(n-2)P(r-2)
+if we have `n` objects of which `q` are of one type and `p` of another type such that p + q = n, then the permutation is given by 
+[frac{n!}{p!q!}]
+The number of permutations of `n` different things, taken `r` at a time, when each of the objects may be repeated any number of times is given by npow(r)
+
+Permutations of `n` objects along a circle can be done in (n - 1)! ways.
+Permutations along a circle in clockwise and anticlockwise arrangements are considered alike.
+The number of permutations of `n` distinct objects in clockwise and anticlockwise arrangements are similar 
+[frac{(n - 1)!}{2}]
+
+Each of the different selections made by taking some or all of a number of objects, irrespective of their arrangement is called combination. Unlike in permutations, order is not important in combinations.
+
+Combination of `n` different objects, taken r at a time: 
+nCr = [frac{n!}{(n - r)!r!}]  
+nCr + nCr-1 = n+1Cr 
+nCr = n/r ? n-1Cr-1
+nCr = nCn-r 
+
+The number of ways in which we can divide (p + q) items into two unequal groups containing `m` and `n` items is 
+[frac{(m + n)!}{m!n!}]
+The number of ways in which `pq` different items can be divided equally into `p` groups each containing `n` objects and the order is important is given by 
+[frac{mn!}{(n!)^{m}}]
+And when the order is not important, the number ways in which we can divide is given by 
+[frac{mn!}{(n!)^{m}} ? frac{1}{m!}]

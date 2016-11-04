@@ -1,0 +1,59 @@
+Relative speed of the hands = (speed of minute hand – speed of the hour hand) = (6 – 0.5) = (5.5 degrees)
+So the time taken by the minute hand to overtake the hour hand = Distance/relative speed = 360/5.5 = 65.45 Minutes
+Formula for the angle between the hands = ¦30H – M ¦degrees Where H -> Hour reading and M ->minute reading.
+
+If the gain is Yo then the time is [frac{2}{11}] x Y minutes.
+If between H and (H +1) o`clock, the two hands are together at an angle ? then the gain Y = [(H? 30) ± ?] minutes, Where H is reading of hour. 
+
+For fast/slow clocks:
+Total time gained or lost in T hours of correct time = (T*60) * (720/11 - x)/x minutes
+(positive value indicates gain and negative value indicates loss of time)
+
+The number of weeks in an ordinary year = 52 weeks + 1 odd day(leap has 2 odd day)
+Each year which is not a multiple of 100 but is completely divisible by 4 is a leap year. For century years(100 multiples) Year which is divisible by 400 is a leap year
+
+To find the day when date is given:
+Number of odd days in 100 years = 5 and in century leap years 0.
+Last day of a century cannot be Tuesday or Thursday or Saturday.
+For the calendars of two different years to be the same, the following conditions must be satisfied.
+    Both years must be of the same type. i.e., both years must be ordinary years or both years must be leap years.
+    1st January of both the years must be the same day of the week.
+Start from closest Century leap year. Mapping is sunday=0 monday=1 so on. Find starting day of the year(each year from century leap year will have 1 odd day)
+
+The amount of money to be paid during the first purchase of the share is known as the Face Value of the share. Later on the value that an investor would put to share would be different from its face value.
+
+The profits that a business makes are distributed to business owners.Dividends are declared as a percentage of the face value of the shares.
+The financial year in India starts on the 1st of April and closes on 31st March
+If the business is making good profits then the market value of it is at a price which is higher than the face value. Now the shares that the business issues at this point would be issued at a price higher than the face value. This extra amount is known as the premium.
+
+When a business takes a loan form an individual it does so by issuing debentures. The difference between a share and a debenture is that debentures carry a fixed rate of return, referred to as a coupon rate or interest. Just like shares, the market value of debentures is different from face value,
+
+Stock: It is the value of capital of a company. Stock is always bought, sold or held
+Cash: The money spent or received while buying or selling the stock. Cash is always invested or received.
+Market Price: The rate at which stock is bought or sold is called as market price or market value.
+Brokerage: It is the sum of money paid to a stock dealer on the sale and purchase of stocks. 
+Stock at Par: When the selling price of the stock is equal to its face value then it is said to be selling at par.
+
+Stock = (frac{Investment times100}{M.P.})= (frac{Income times100}{Rate})] (*M.P. = market price)
+Return on Investment = [ (frac{Dividend times Face value}{M.P.})]
+
+apow(x) = m, x is called the logarithm of m to the base a.
+    aLogaN = N.
+    Loga(PQR) = LogaP + LogaQ + LogaR.
+    Loga(M/N) = LogaM – LogaN.
+    LogaMN = N logaM.
+    LogMM = 1
+    LogMN(base M) = LogP N / LogPM
+    Log C to the base Apow(B) is equal to (LogAC)/B
+    The natural number 1,2,3… are respectively the logarithms of 10,100,1000,… to the base 10.
+    The logarithm of "0" and negative numbers are not defined.
+
+Common Logarithm: A number to the base "10" is known as common logarithm.
+Natural Logarithm: Logarithm of a number to the base "e" is known as natural logarithm
+Characteristic: The integral part of the common logarithm of a number x>0 is called the characteristic.
+Mantissa: The fractional part of the common logarithm is called mantissa.
+The logarithm of 2 to the base 10 is 0.3010, where 0 is characteristic and 3010 is the mantissa.
+
+while log 2 = 0.3010, log 20 will be 1.3010 as n in this case is 1.
+Therefore, the value of the characteristic of the logarithm of a number will help determine the number of integral digits the number has
+= characteristic + 1
