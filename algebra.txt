@@ -18,7 +18,7 @@ Tn = a[rpow(n-1)]
 [T{n}=frac{1}{a+(n-1)d}]
 [b = frac{2ac}{a+c}] a, b, c are in HP
 Sum of first `n` natural number [S{n}=frac{n(n+1)}{2}]
-Sum of square of first `n` natural numbers = [S{n}=frac{n(n+1)(2n+1)}{6}\
+Sum of square of first `n` natural numbers = [S{n}=frac{n(n+1)(2n+1)}{6}
 Sum of cube of first `n` natural numbers = [S{n}=[frac{n(n+1)}{2}]^{2}]
 
 A function is said to be even, if f(x) = f (-x)

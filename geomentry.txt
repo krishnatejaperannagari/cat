@@ -122,9 +122,9 @@ Ratios:
     Sin (theta) = O/H
     Cos (theta) = A/H
     Tan (theta) = O/A (tan (theta) = sin(theta)/cos(theta))
-    Cosec (theta) = H/O (cosec (theta) = 1/sin?)
-    Sec (theta) = H/A (sec (theta) = 1/cos?)
-    Cot (theta) = A/O (cot (theta) = 1/tan?)
+    Cosec (theta) = H/O (cosec (theta) = 1/sin(theta))
+    Sec (theta) = H/A (sec (theta) = 1/cos(theta))
+    Cot (theta) = A/O (cot (theta) = 1/tan(theta))
     sin2 (theta) + cos2 (theta) = 1
     1 + tan2 (theta) = sec2 (theta)
     1 + cot2 (theta) = cosec2 (theta)

@@ -3,7 +3,7 @@ So the time taken by the minute hand to overtake the hour hand = Distance/relati
 Formula for the angle between the hands = ¦30H – M ¦degrees Where H -> Hour reading and M ->minute reading.
 
 If the gain is Yo then the time is [frac{2}{11}] x Y minutes.
-If between H and (H +1) o`clock, the two hands are together at an angle ? then the gain Y = [(H? 30) ± ?] minutes, Where H is reading of hour. 
+If between H and (H +1) o`clock, the two hands are together at an angle a then the gain Y = [(H * 30) ± a] minutes, Where H is reading of hour. 
 
 For fast/slow clocks:
 Total time gained or lost in T hours of correct time = (T*60) * (720/11 - x)/x minutes
