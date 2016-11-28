@@ -34,7 +34,7 @@ Market Price: The rate at which stock is bought or sold is called as market pric
 Brokerage: It is the sum of money paid to a stock dealer on the sale and purchase of stocks. 
 Stock at Par: When the selling price of the stock is equal to its face value then it is said to be selling at par.
 
-Stock = (frac{Investment times100}{M.P.})= (frac{Income times100}{Rate})] (*M.P. = market price)
+Stock = (frac{Investment times 100}{M.P.})= (frac{Income times 100}{Rate})] (*M.P. = market price)
 Return on Investment = [ (frac{Dividend times Face value}{M.P.})]
 
 apow(x) = m, x is called the logarithm of m to the base a.
@@ -55,5 +55,4 @@ Mantissa: The fractional part of the common logarithm is called mantissa.
 The logarithm of 2 to the base 10 is 0.3010, where 0 is characteristic and 3010 is the mantissa.
 
 while log 2 = 0.3010, log 20 will be 1.3010 as n in this case is 1.
-Therefore, the value of the characteristic of the logarithm of a number will help determine the number of integral digits the number has
-= characteristic + 1
+Therefore, the value of the characteristic of the logarithm of a number will help determine the number of integral digits the number has = characteristic + 1

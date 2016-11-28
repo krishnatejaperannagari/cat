@@ -14,16 +14,16 @@ Mutually exclusive (or incompatible) events are those where the occurrences of a
 Equally likely cases: Events are said to be equally likely if there is no reason for an event to occur in preference to any other event.
 Events are independent if the happening (or non-happening) of one event is not affected by the happening (or non-happening) of other
 
-If there are ‘n’ – elementary events associated with a random experiment and ‘m’ of them are favorable to an event ‘A’ then probability of ‘A’ is denoted by P (A) and is defined as the ratio m/n.  0 ? P (A) ? 1
+If there are ‘n’ – elementary events associated with a random experiment and ‘m’ of them are favorable to an event ‘A’ then probability of ‘A’ is denoted by P (A) and is defined as the ratio m/n.  0 < P (A) < 1
 The number of cases in which the event ‘A’ will not happen is (n-m), therefore if A. denotes not happening of ‘A’, then the probability P ( A. ) of not happening of ‘A’ is given by P(A.) = (n-m)/n = 1 – m/n = 1 – P(A)
 If P(A) = 1, ‘A’ is called certain event and if P( A. ) = 1, ‘A’ is called impossible event.
 
-If ‘A’ and ‘B’ are two events associated with a random experiment, then P (A U B) = P (A) +P (B) – P (A ? B)
-If ‘A’ and ‘B’ are mutually exclusive events, then P (A ? B) = 0, therefore P (A U B) = P(A) + P(B)
-If ‘A’, ‘B’, ‘C’ are three events associated with a random experiment, then  P (A U B U C) = P (A) + P(B) + P(C) – P(A ? B) – P(B ? C) – P(A ? C) + P(A ? B ? C)
+If ‘A’ and ‘B’ are two events associated with a random experiment, then P (A U B) = P (A) +P (B) – P (A ^ B)
+If ‘A’ and ‘B’ are mutually exclusive events, then P (A ^ B) = 0, therefore P (A U B) = P(A) + P(B)
+If ‘A’, ‘B’, ‘C’ are three events associated with a random experiment, then  P (A U B U C) = P (A) + P(B) + P(C) – P(A ^ B) – P(B ^ C) – P(A ^ C) + P(A ^ B ^ C)
 If ‘A’ & ‘B’ are two events associated with a random experiment. Then 
-P(A. ? B) = P(B) – P(A ? B)
-P( A ? B. ) = P(A) – P(A ? B)
+P(A. ^ B) = P(B) – P(A ^ B)
+P( A ^ B. ) = P(A) – P(A ^ B)
 
 P (A/B) = Probability of Occurrence of ‘A’ under the condition that ‘B’ has already occurred.
-If A & B are two events associated with a random experiment, then P(A ? B) = P(A). P(B/A) if P(A) ? 0 or P(A ? B) = P(B).P(A/B) if P(B) ? 0
+If A & B are two events associated with a random experiment, then P(A ^ B) = P(A). P(B/A) if P(A) not 0 or P(A ^ B) = P(B).P(A/B) if P(B) not 0

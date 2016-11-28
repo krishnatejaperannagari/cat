@@ -2,5 +2,5 @@ Set: A well-defined collection of objects.These objects are called the elements 
 
 Disjoint sets: Two sets are said to be disjoint sets if they do not have any common elements.
 Overlapping sets: If two Sets A and B have some common elements, then the sets are said to be overlapping sets.
-A ? B = (A + B) – (A ? B)
-A ? B ? C = A + B + C – A ? B – B ? C – C ? A + A ? B ? C
+A U B = (A + B) – (A ^ B)
+A U B U C = A + B + C – A ^ B – B ^ C – C ^ A + A ^ B ^ C

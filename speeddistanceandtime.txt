@@ -1,4 +1,4 @@
-Distance = Speed ? Time
+Distance = Speed / Time
 
 If you travel equal distances with speed U and V, then the average speed over the entire journey is given by [frac{2UV}{(U + V)}]
 
@@ -18,7 +18,7 @@ Boats/Streams:
     (x + y) km/h.
     When the boat is traveling opposite to the direction of the stream, then the boat is
     (x – y) km/h.
-    If the upstream (boat speed - stream speed) is denoted by U and downstream (boat speed + stream speed) is denoted by D, the oat speed and stream speed as calculated as:
+    If the upstream (boat speed - stream speed) is denoted by U and downstream (boat speed + stream speed) is denoted by D, the boat speed and stream speed as calculated as:
     [ x = frac{D + U}{2}] , [ y= frac{D - U}{2}]
 
 Races:

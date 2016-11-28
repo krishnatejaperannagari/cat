@@ -12,8 +12,8 @@ Trade discount is a discount on the selling price of an article.
 
 (1-x)(1-y) represents the single discount equivalent of x% and y%
 
-Profit = (Actual sales – Break-even sales) ? Contribution per unit
-Loss = (Break-even sales – Actual sales) ? Contribution per unit
+Profit = (Actual sales – Break-even sales) * Contribution per unit
+Loss = (Break-even sales – Actual sales) * Contribution per unit
 
 CP + Mark up = Marked price
 Mark up = SP – CP

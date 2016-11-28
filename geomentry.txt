@@ -4,7 +4,7 @@ Two angles which have a common arm and the sum of angles is 180o, are called as 
 
 Area of Triangle(Hero`s Formula) Area = [sqrt{s times (s-a) times (s-c) times (s-c)}]
 where s is length semi-perimeter and a,b and c are length of sides of a triangle. 
-The area of triangle is given by 1/2 ? base ? altitude 
+The area of triangle is given by 1/2 * base * altitude 
 The point of intersection of the angle bisectors of a triangle is called as incentre. 
 Incentre is equidistant from all the three sides, incentre can drawn touching all the three sides.
 The radius of this circle is called "in-circle" and is given by:
@@ -12,10 +12,10 @@ r = {Area of Triangle}/{Semi-perimeter}
 Circumcentre: It is the point of intersection of perpendicular side bisectors of the triangle.
 Circumradius = {Product of three sides}/{4 times {Area of Triangle}}
 For Equilateral Triangle:
-    Altitude = v3/2 ? side
-    Area = v3/2 ? (side)2
-    Inradius = 1/3 ? altitude
-    Circumradius = 2/3 ? altitude
+    Altitude = v3/2 * side
+    Area = v3/2 * (side)2
+    Inradius = 1/3 * altitude
+    Circumradius = 2/3 * altitude
 A line segment joining the vertex to the mid-point of the opposite side is called the median.The centroid divides the median in the ratio of 2:1.
 A(x1, y1); B(x2, y2); C(x3, y3) are the coordinates of a triangle, then coordinates of centroid O are: [frac{x_{1}+ x_{2}+ x_{3}}{3},frac{y_{1}+ y_{2}+ y_{3}}{3}] 
 The point at which all the altitudes meet is called the orthocentre.
@@ -28,8 +28,8 @@ Basic Proportionality Theorem:If the line is drawn parallel to one side of a tri
 Appollonius Theorem: The sum of squares of any two sides of a triangle is equal to twice the sum of square of the median to the third side and the square of half of the third side.
 
 A chord is a line segment that has its end points on the circle.
-circumference is given by 2?r
-The area of the circle is calculated using the formula ?*rPOW(2)
+circumference is given by 2*pie*r
+The area of the circle is calculated using the formula pie*rPOW(2)
 Major arc is greater than semi-circle and minor arc is smaller than semi-circle.
 An angle in the plane of the circle with its vertex at the center is called central angle. 
 Congruent Circles: Circles that have equal radii are known as congruent circles
@@ -43,69 +43,69 @@ Area of a cyclic quadrilateral = [sqrt{s(s-a)(s-b)(s-c)(s-d)}] Where s is the se
 
 Convex Polygon: A polygon in which all the interior angles are less than 180o.
 Concave Polygon: A polygon in which at least one interior angle is greater than 180o.
-The sum of interior angles of a polygon with n sides is equal to (n-2) ? 180o.
+The sum of interior angles of a polygon with n sides is equal to (n-2) * 180o.
 The sum of all the exterior angles = 360o.
 The number of diagonals `a` in a polygon of n sides is given by [a=frac{n(n-1)}{2}-n].
-Area of quadrilateral = ? ? one of the diagonals ? sum of the perpendiculars drawn to that diagonal from the opposite vertices.
-The area of a parallelogram is equal to Base ? Height.
-Area of rectangle = Length ? Breadth
+Area of quadrilateral = 1/2 * one of the diagonals * sum of the perpendiculars drawn to that diagonal from the opposite vertices.
+The area of a parallelogram is equal to Base * Height.
+Area of rectangle = Length * Breadth
 Perimeter of rectangle = 2 (length + breadth)
 The perimeter of a square is `4a`, where `a` is the side of the square.
 The area of square is `a2`.
-Area of rhombus = ? d1d2, where d1 and d2 are two diagonals of a rhombus.
+Area of rhombus = 1/2 * d1d2, where d1 and d2 are two diagonals of a rhombus.
 (Side)2 = (1/2 one diagonals)2 + (1/2 other diagonal)2
 A quadrilateral with two parallel sides and two nonparallel sides is called trapezium.
-Area of trapezium = ? ? (AB + CD) ? height
-Area of kite = ? ? product of diagonals
+Area of trapezium = 1/2*(sum of parallel sides)*(height)
+Area of kite = 1/2 * product of diagonals
 
 Number of faces + Number of vertices = Number of edges + 2 (Euler's formula for solids)
 A rectangular surface is called as face, each solid line as edge and each point at which the edges meet as vertex
 For cuboid:
-    Volume = length ? width ? height
-    Surface area = sum of areas of all the faces (area of face = length ? breadth)
+    Volume = length * width * height
+    Surface area = sum of areas of all the faces (area of face = length * breadth)
     Diagonal of a cuboid = [sqrt{l^{2}+b^{2}+h^{2}}]
 For cube:
     Volume = a3
     Surface Area = 6a2
-    Diagonal = av3
+    Diagonal = asqrt(3)
 For Prism:
     A prism with base of n sides, vertices = 2n and
     number of faces = n + 2.
-    Surface Area of vertical faces = perimeter of base ? height.
-    Total surface area of prism = (perimeter of base ? height) + (2 ? area of base).
-    Volume of prism = (area of base) ? height.
+    Surface Area of vertical faces = perimeter of base * height.
+    Total surface area of prism = (perimeter of base * height) + (2 * area of base).
+    Volume of prism = (area of base) * height.
 For Cylinder:
-    Surface Area = 2?r2 + 2?rh (area of two bases and of curved surface)
-    Volume = ?r2h (area of base ? height)
-    Volume of material of hollow cylinder = ?(R2 – r2)h, where R = outer radius, r = inner radius.
+    Surface Area = 2 pie rpow(2) + 2 pie rh (area of two bases and of curved surface)
+    Volume = pie rpow(2) h (area of base * height)
+    Volume of material of hollow cylinder = pie (R2 – r2)h, where R = outer radius, r = inner radius.
 For Cone:
-    Surface Area of curved part= ?rl, where l = slant height    l2 = r2 + h2
-    So, total surface area (including base/circle) = ?rl + ?r2
-    Volume = 1/3?r2h, where h = height of cone from corner to center of base/circle.
+    Surface Area of curved part= pie rl, where l = slant height    l2 = r2 + h2
+    So, total surface area (including base/circle) = pie * r * l + pie rpow(2)
+    Volume = 1/3 pie r2h, where h = height of cone from corner to center of base/circle.
 Frustum of a cone: When the lower part of the cone containing the base is cut by a plane parallel to the base of the cone, then slant height L is given by
     [L = sqrt{h^{2}+ (R-r)^{2}}] 
-    Curved surface of cone = ? (R + r) L
-    Total surface area of frustum = ? (R2 + r2 + RL + rL)
+    Curved surface of cone = pie (R + r) L
+    Total surface area of frustum = pie (R2 + r2 + RL + rL)
     Volume of frustum = [frac{h}{3}(R^{2} + r^{2} + Rr)]
 Sphere:
-    Volume = 4/3?r3
-    Surface Area = 4?r2
-Volume = 4/3 ? (R3 – r3), where R and r are the outer and inner radius of a hollow sphere respectively.
+    Volume = 4/3 pie r3
+    Surface Area = 4 pie r2
+Volume = 4/3 pie (R3 – r3), where R and r are the outer and inner radius of a hollow sphere respectively.
 Pyramid:
     Number of vertices = n + 1 and Number of faces including the base = n + 1.
-    Surface area of lateral faces = ? ? perimeter of base ? slant height
-    Total surface area of pyramid = base area + ? ? perimeter of base ? slant height
-    Volume of pyramid = 1/3 ? base area ? height
+    Surface area of lateral faces = 1/2 * perimeter of base * slant height
+    Total surface area of pyramid = base area + 1/2 * perimeter of base * slant height
+    Volume of pyramid = 1/3 * base area * height
 
 Distance between two points can be calculated using the formula:
 [sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}}]
 Slope of a line is given by, [m=frac{y_{2}-y_{1}}{x_{2}-x_{1}}] 
 Area of triangle= {1/2}(x_{1} (y_{2} – y_{3}) + x_{2} (y_{3} – y_{1}) + x_{3} (y_{1} – y_{2}))]
 Point P(x, y), then the new coordinates of point P can be given by (x – h, y – k) 
-If point P (x, y) divides the join of two points A (x1, y1) and B (x2, y2) internally in the ratio of m:n, then the coordinates of (x, y) are given by [(x,y)=frac{mx_{2}+nx_{1}}{m+n},\frac{my_{2}+ny_{1}}{m+n}]
-If P (x, y) divides the join of A (x1, y1) and B (x2, y2) externally in the ratio of m : n, then the coordinates of P are given by [(x,y)=frac{mx_{2}-nx_{1}}{m-n},\frac{my_{2}-ny_{1}}{m-n}] 
+If point P (x, y) divides the join of two points A (x1, y1) and B (x2, y2) internally in the ratio of m:n, then the coordinates of (x, y) are given by [(x,y)=frac{mx_{2}+nx_{1}}{m+n},frac{my_{2}+ny_{1}}{m+n}]
+If P (x, y) divides the join of A (x1, y1) and B (x2, y2) externally in the ratio of m : n, then the coordinates of P are given by [(x,y)=frac{mx_{2}-nx_{1}}{m-n},frac{my_{2}-ny_{1}}{m-n}] 
 The coordinates of the centroid of a triangle with vertices A (x1, y1), B (x2, y2) and C (x3, y3) are [frac{x_{1}+x_{2}+x_{3}}{3},frac{y_{1}+y_{2}+y_{3}}{3}]
-The coordinates of the incenter I (x, y) of the triangle with vertices A (x1, y1), B (x2, y2) and C (x3, y3) are [frac{ax_{1}+bx_{2}+cx_{3}}{a+b+c},frac{ay_{1}+by_{2}+cy_{3}}{a+b+c}] where a, b, c are the lengths of three sides opposite to ?BAC, ?ABC and ?ACB
+The coordinates of the incenter I (x, y) of the triangle with vertices A (x1, y1), B (x2, y2) and C (x3, y3) are [frac{ax_{1}+bx_{2}+cx_{3}}{a+b+c},frac{ay_{1}+by_{2}+cy_{3}}{a+b+c}] where a, b, c are the lengths of three sides opposite to angleBAC, angleABC and angleACB
 
 Line:
 y – y1 = m (x – x1) Point slope form
@@ -119,19 +119,20 @@ two parallel lines, then the perpendicular distance between them is given by fra
 three lines will be concurrent if A3(B1C2 – B2C1) + B3(C1A2 – C2A1) + C3(A1B2 – A2B1) = 0 
 
 Ratios:
-    Sin ? = P/H
-    Cos ? = B/H
-    Tan ? = P/B (tan ? = sin?/cos?)
-    Cosec ? = H/P (cosec ? = 1/sin?)
-    Sec ? = H/B (sec? = 1/cos?)
-    Cot ? = B/P (cot ? = 1/tan?)
-    sin2? + cos2? = 1
-    1 + tan2? = sec2?
-    1 + cot2? = cosec2?
+    Sin (theta) = O/H
+    Cos (theta) = A/H
+    Tan (theta) = O/A (tan (theta) = sin(theta)/cos(theta))
+    Cosec (theta) = H/O (cosec (theta) = 1/sin?)
+    Sec (theta) = H/A (sec (theta) = 1/cos?)
+    Cot (theta) = A/O (cot (theta) = 1/tan?)
+    sin2 (theta) + cos2 (theta) = 1
+    1 + tan2 (theta) = sec2 (theta)
+    1 + cot2 (theta) = cosec2 (theta)
+    All Silver Tea Cup
     First Quadrant (0o – 90o) – All positive
-    Second Quadrant (90o – 180o) – Only Sin? positive
-    Third Quadrant (180o – 270o) – Only tan? positive
-    Fourth Quadrant (270o – 360o) – Only Cos? positive
+    Second Quadrant (90o – 180o) – Only Sin(theta) positive
+    Third Quadrant (180o – 270o) – Only tan(theta) positive
+    Fourth Quadrant (270o – 360o) – Only Cos(theta) positive
 conversion of ratio(n +/- ?) {n = 90,180,270} 
 values of ratios for various angles
 
