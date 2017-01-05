@@ -6,9 +6,18 @@ Though the Particular Positive Statement gives a positive impression but it only
 Particular Negative Statement gives a negative impression about some items not all. It is represented by letter `O`
 
 Rules:
-    With two particular statements no universal conclusion is possible.
-    With two positive statements no negative conclusion is possible.
-    With two negative statements no positive conclusion is possible.
-    With two particular statements no conclusion is possible, except when a `particular positive statement` type of statement is given and then by reversing it a `particular negative statement` type of conclusion is given.
+    UP+UP=UP
+    UP+UN=UN
+    UN+ (UP/PP)=PN
+    PP+ (UP/UN)=PP/PNs
 
-You can use venn diagrams to solve them if time permits
+You can use venn diagrams to solve them if time permits or use the ones below:
+	All + All = All
+	All + No = No
+	All + Some = No Conclusion
+	Some + All = Some
+	Some + Some = No Conclusion
+	Some + No = Some Not
+	No + No = No Conclusion
+	No + All = Some not reversed
+	No + Some = Some not reversed

@@ -1,0 +1,130 @@
+Topics: algebra, clocks, geomentry, number system, percentage, permutation, statistics
+
+In time and work related problems, the rate at which people or machines work alone are given and combined rate at which if they work together has to be calculated (or vice versa).
+1/x + 1/y = 1/h(time units)
+
+1 mile/hour = 1760/3600 = 22/45 yards/sec
+1 yard = 3 feet
+If we need to find the time after which all of them would be at the starting point simultaneously for the first time, we need to find lcm of the times taken to run around the race track once
+
+**It can also be given as [frac{low}{high} = frac{high - mix}{mix - low}] [Use Allegation rule]
+
+If two items are sold at Rs X, one of them at a profit of `p` % and the other at a loss of `p` %, then the two transactions have resulted in an overall loss of ppow(2)/100 %
+Here the absolute value of loss = Rs [frac{2.p^{2}.X}/{100^{2}-p^{2}}]
+
+P(A. ^ B) = P(B) – P(A ^ B)
+P( A ^ B. ) = P(A) – P(A ^ B)
+P(A ^ B) = P(A). P(B/A)
+
+P(n, r) = nPr = n!/(n - r)!
+if we have `n` objects of which `q` are of one type and `p` of another type such that p + q = n, then the permutation is given by
+[frac{n!}{p!q!}]
+The number of permutations of `n` different things, taken `r` at a time, when each of the objects may be repeated any number of times is given by npow(r)
+Permutations of `n` objects along a circle can be done in (n - 1)! ways.(clockwise = anticlockwise divide by 2)
+
+nCr = [frac{n!}{(n - r)!r!}]  
+The number of ways in which we can divide (p + q) items into two unequal groups containing `m` and `n` items is
+[frac{(m + n)!}{m!n!}]
+The number of ways in which `pq` different items can be divided equally into `p` groups each containing `n` objects and the order is important is given by
+[frac{mn!}{(n!)^{m}}]
+And when the order is not important, the number ways in which we can divide is given by
+[frac{mn!}{(n!)^{m}} * frac{1}{m!}]
+
+[A = P(1+frac{R}{100})^{T}]
+If A`s income is R% more than B, then B`s income is less than that of A by
+(100 x R)/(100 + R) percent
+If A`s Income is R% less than B, then B`s income is more than that of A by
+(100 x R)/(100 - R) percent
+
+Check if a number is prime or not: Let`s look at the number 119. So let`s see if we have any prime numbers less than 11(sq. root of closest perfect square number which is < 119) as a factor of 119. The prime numbers 2, 3, 5,7,11 are not the factors of 119 and hence 119 is a prime number.
+HCF two methods
+LCM of fractions = LCM of numerators / HCF of denominators
+HCF of fractions = HCF of numerators / LCM of denominators
+The Euler number of a number x means the number of natural numbers which are less than x and are co-prime to x.
+[E(z)=z(1-frac{1}{p})(1-frac{1}{Q})(1-frac{1}{R}).......] Where P, Q and R are different prime factors of z
+yE(z) divides z, the remainder will always be 1,
+
+r(inradius) = {Area of Triangle}/{Semi-perimeter}
+Circumradius = {Product of three sides}/{4 times {Area of Triangle}}
+Length of direct common tangent = [sqrt{d^{2}-(r_{1}^{2}-r_{2}^{2})}]
+Length of transverse common tangent = [sqrt{d^{2}-(r_{1}^{2}+r_{2}^{2})}]
+
+The sum of interior angles of a polygon with n sides is equal to (n-2) * 180o.
+The number of diagonals `a` in a polygon of n sides is given by [a=frac{n(n-1)}{2}-n]
+Area of quadrilateral = 1/2 * one of the diagonals * sum of the perpendiculars drawn to that diagonal from the opposite vertices.
+The area of a parallelogram is equal to Base * Height.
+Area of rhombus = 1/2 * d1d2, where d1 and d2 are two diagonals of a rhombus.
+Area of trapezium = 1/2*(sum of parallel sides)*(height)
+Area of kite = 1/2 * product of diagonals
+
+Number of faces + Number of vertices = Number of edges + 2 (Euler's formula for solids)
+A rectangular surface is called as face, each solid line as edge and each point at which the edges meet as vertex
+Diagonal of a cuboid = [sqrt{l^{2}+b^{2}+h^{2}}]
+For Prism:
+    A prism with base of n sides, vertices = 2n and
+    number of faces = n + 2.
+    Surface Area of vertical faces = perimeter of base * height.
+    Total surface area of prism = (perimeter of base * height) + (2 * area of base).
+    Volume of prism = (area of base) * height.
+For cone:
+    So, total surface area (including base/circle) = pie * r * l + pie rpow(2)
+    Volume = 1/3 pie r2h, where h = height of cone from corner to center of base/circle.
+Frustum of a cone:
+    [L = sqrt{h^{2}+ (R-r)^{2}}]
+    Curved surface of cone = pie (R + r) L
+    Total surface area of frustum = pie (R2 + r2 + RL + rL)
+    Volume of frustum = [frac{h}{3}(R^{2} + r^{2} + Rr)]
+Sphere:
+    Volume = 4/3 pie r3
+    Surface Area = 4 pie r2
+Pyramid:
+    Number of vertices = n + 1 and Number of faces including the base = n + 1.
+    Surface area of lateral faces = 1/2 * perimeter of base * slant height
+    Total surface area of pyramid = base area + 1/2 * perimeter of base * slant height
+    Volume of pyramid = 1/3 * base area * height
+
+Area of triangle= {1/2}(x_{1} (y_{2} – y_{3}) + x_{2} (y_{3} – y_{1}) + x_{3} (y_{1} – y_{2}))]
+Point P(x, y), then the new coordinates of point P can be given by (x – h, y – k)
+The coordinates of the centroid of a triangle with vertices A (x1, y1), B (x2, y2) and C (x3, y3) are [frac{x_{1}+x_{2}+x_{3}}{3},frac{y_{1}+y_{2}+y_{3}}{3}]
+The coordinates of the incenter I (x, y) of the triangle with vertices A (x1, y1), B (x2, y2) and C (x3, y3) are [frac{ax_{1}+bx_{2}+cx_{3}}{a+b+c},frac{ay_{1}+by_{2}+cy_{3}}{a+b+c}] where a, b, c are the lengths of three sides opposite to angleBAC, angleABC and angleACB
+
+Angle between lines: tan(theta) = frac{A_{1}B_{2}-A_{2}B_{1}}{A_{1}A_{2}-B_{1}B_{2}}
+three lines will be concurrent if A3(B1C2 – B2C1) + B3(C1A2 – C2A1) + C3(A1B2 – A2B1) = 0
+sin2 (theta) + cos2 (theta) = 1
+1 + tan2 (theta) = sec2 (theta)
+1 + cot2 (theta) = cosec2 (theta)
+[frac{a}{sin A}=frac{b}{sin B}=frac{c}{sin C}=2R
+[cos A = frac{b^{2}+c^{2}-a^{2}}{2bc}]
+sin (90° – x) = cos x    cos (90° – x) = sin x
+tan (90° – x) = cot x    cot (90° – x) = tan x
+sec (90° – x) = csc x    csc (90° – x) = sec x
+
+Formula for the angle between the hands = ¦30H – M ¦degrees Where H -> Hour reading and M ->minute reading.
+If the gain is Yo then the time is [frac{2}{11}] x Y minutes.
+If between H and (H +1) o`clock, the two hands are together at an angle a then the gain Y = [(H * 30) ± a] minutes, Where H is reading of hour.  
+Total time gained or lost in T hours of correct time = (T*60) * (720/11 - x)/x minutes
+(positive value indicates gain and negative value indicates loss of time)
+
+Mapping is sunday=0 monday=1 so on.
+Number of odd days in 100 years = 5.
+Last day of a century cannot be Tuesday or Thursday or Saturday.
+
+Stock = (frac{Investment times 100}{M.P.})= (frac{Income times 100}{Rate})] (*M.P. = market price)
+Return on Investment = [ (frac{Dividend times Face value}{M.P.})]
+
+Loga(PQR) = LogaP + LogaQ + LogaR.
+Loga(M/N) = LogaM – LogaN.
+LogMN(base M) = LogP N / LogPM
+The logarithm of 2 to the base 10 is 0.3010, where 0 is characteristic and 3010 is the mantissa.
+the number of integral digits the number has = characteristic + 1
+
+(a + b)3 = a3 + b3 + 3ab (a + b)
+(a3 + b3) = (a + b) (a2 + b2 - ab)
+(a + b + c + d)2 = a2 + b2 + c2 + d2 + 2a(b + c + d) + 2b(c + d) + 2cd
+(x + a)(x + b)(x + c) = x3 + (a + b + c)x2 + (ab + bc + ca)x + abc
+
+[S{n}=frac{n}{2} [2a + (n-1)d]]
+[S{n}=frac{a(1-rpow{n})}{1-r}]
+Sum of square of first `n` natural numbers = [S{n}=frac{n(n+1)(2n+1)}{6}
+(x + a)n = xn + nC1xpow(n-1)a + nC2xpow(n-2)a2 + nC3xpow(n-3)a3 + …. + an
+`rth` term = x3pow(n-r+1)ar-1 [{n(n-1)(n-2)…..(n-r+2)} / (r-1)!]
